@@ -1,3 +1,7 @@
 Test1
+<<<<<<< HEAD
 
 Test3
+=======
+Test 2
+>>>>>>> sourse/main
